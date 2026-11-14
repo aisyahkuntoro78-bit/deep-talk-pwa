@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "DEEP TALK. — Satu Pertanyaan, Banyak Perspektif",
+  "short_name": "DEEP TALK.",
+  "description": "Permainan percakapan untuk mengenal diri, memahami orang lain, dan melihat dunia dari sudut pandang yang beragam.",
+  "lang": "id",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf4f8",
+  "theme_color": "#fbf4f8",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
